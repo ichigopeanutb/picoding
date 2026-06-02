@@ -78,6 +78,10 @@ PiCoding is intended for:
 4. Add validation checks for units, domains, and conservation rules.
 5. Extend the example only after tests define the current behavior.
 
+### Define a Physics-Aware Model Workflow
+
+Use [docs/first-physics-aware-model-workflow.md](docs/first-physics-aware-model-workflow.md) for a step-by-step path from a physical problem statement to assumptions, variables, equations, validation, tests, and documented limitations.
+
 ## Initial Roadmap
 
 - Phase 0: Repository initialization.

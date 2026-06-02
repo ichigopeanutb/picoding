@@ -20,6 +20,7 @@ Goals:
 - Capture assumptions, variables, units, equations, constraints, validation logic, and tests.
 - Provide templates for AI coding agents, human reviewers, and model authors.
 - Add examples that show how prompts evolve into implementation tasks.
+- Publish a first workflow document that shows how a contributor moves from a physical problem to code, tests, and limitations.
 
 Potential outputs:
 
