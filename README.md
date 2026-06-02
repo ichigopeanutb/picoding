@@ -53,6 +53,8 @@ PiCoding is intended for:
 
 ## Example Workflows
 
+For a comprehensive, step-by-step guide to this methodology with a complete worked example, see the [PiCoding Core Workflow](docs/core-workflow.md).
+
 ### Translate a Conceptual Model into Code
 
 1. Describe the physical system and its intended scope.
