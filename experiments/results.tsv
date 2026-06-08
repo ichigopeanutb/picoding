@@ -1,0 +1,2 @@
+timestamp	commit	status	score	tests_passed	tests_failed	runtime_seconds	category	description
+2026-06-08T21:11:08+0800	working-tree	pass	100	1	0	0.945	baseline	Initial AutoImprove harness baseline before setup commit

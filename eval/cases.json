@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ai_server_lc_001",
+    "category": "business_model_risk",
+    "input": "Analyze an AI server leasing model using LC financing, listed company equity participation, IDC deployment, tenant lease revenue, and share price upside incentive.",
+    "expected_format": "structured_risk_report",
+    "required_sections": [
+      "Business Logic",
+      "Cash Flow Structure",
+      "Key Risks",
+      "Missing Assumptions",
+      "Red Flags",
+      "Next-Step Questions"
+    ],
+    "must_include_keywords": [
+      "LC repayment",
+      "tenant default",
+      "server utilization",
+      "IDC",
+      "cash flow mismatch",
+      "related-party transaction",
+      "share price incentive"
+    ],
+    "scoring_notes": "High-quality output should identify financing risk, operational risk, governance risk, and cash flow timing risk."
+  },
+  {
+    "id": "power8_term_sheet_001",
+    "category": "financing_risk_review",
+    "input": "Review a GEM-style financing term sheet for Power8, including valuation, downside protection, investor rights, redemption terms, and operational milestones.",
+    "expected_format": "term_sheet_risk_review",
+    "required_sections": [
+      "Deal Summary",
+      "Economic Terms",
+      "Control Rights",
+      "Redemption and Downside Risk",
+      "Operational Assumptions",
+      "Negotiation Questions"
+    ],
+    "must_include_keywords": [
+      "valuation",
+      "redemption",
+      "liquidation preference",
+      "milestone",
+      "governance",
+      "dilution",
+      "GEM"
+    ],
+    "scoring_notes": "High-quality output should distinguish financial, governance, and execution risks without assuming the deal is investable."
+  },
+  {
+    "id": "lao_she_ip_platform_001",
+    "category": "cultural_ip_strategy",
+    "input": "Design a Lao She cultural IP platform strategy that connects literary heritage, digital experiences, education, licensing, and sustainable commercialization.",
+    "expected_format": "strategy_memo",
+    "required_sections": [
+      "Strategic Thesis",
+      "Audience Segments",
+      "Product and Content Lines",
+      "Commercial Model",
+      "Cultural Integrity Risks",
+      "Validation Plan"
+    ],
+    "must_include_keywords": [
+      "Lao She",
+      "cultural IP",
+      "licensing",
+      "education",
+      "audience",
+      "heritage",
+      "commercialization"
+    ],
+    "scoring_notes": "High-quality output should balance cultural respect, product strategy, and revenue model validation."
+  },
+  {
+    "id": "p_company_optical_comm_001",
+    "category": "investment_research",
+    "input": "Analyze P Company as an optical communication investment opportunity, including AI data center demand, module supply chain position, customer concentration, margin risk, and technology roadmap.",
+    "expected_format": "investment_research_note",
+    "required_sections": [
+      "Investment Thesis",
+      "Market Drivers",
+      "Technical Position",
+      "Customer and Supply Chain Risk",
+      "Financial Sensitivities",
+      "Diligence Questions"
+    ],
+    "must_include_keywords": [
+      "optical communication",
+      "AI data center",
+      "transceiver",
+      "customer concentration",
+      "gross margin",
+      "supply chain",
+      "technology roadmap"
+    ],
+    "scoring_notes": "High-quality output should connect technical demand drivers to financial and competitive risk."
+  },
+  {
+    "id": "ai_datacenter_energy_001",
+    "category": "infrastructure_business_model",
+    "input": "Evaluate an AI data center energy and infrastructure business model, including power procurement, storage, grid constraints, capex, tenant demand, and operating risk.",
+    "expected_format": "infrastructure_strategy_report",
+    "required_sections": [
+      "Business Model",
+      "Power and Grid Assumptions",
+      "Capex and Financing",
+      "Operational Risks",
+      "Validation Metrics",
+      "Next-Step Questions"
+    ],
+    "must_include_keywords": [
+      "AI data center",
+      "power procurement",
+      "energy storage",
+      "grid constraint",
+      "capex",
+      "tenant demand",
+      "utilization"
+    ],
+    "scoring_notes": "High-quality output should identify infrastructure constraints, financing assumptions, and validation metrics."
+  }
+]
